@@ -159,5 +159,10 @@ const clearBookmarks = function () {
 const init = function () {
   // load saved bookmarks
   _loadBookmarks();
+  newFeature();
 };
 init();
+
+const newFeature = function(){
+
+}
