@@ -1,3 +1,4 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Example project created for the 'Complete Javascript course' by Jonas Schmedtmann.
+All Javascript code was written by me.
